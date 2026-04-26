@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+main img {
+    width: 400px;
+    height: 200px;
+    margin-left: 70px;
+    margin-top: 30px;
+    
+    border: black solid 3px;
+}
+}
+.Metallica{
+    width: 500px;
+    height: 500px;
+}
+p{
+    color:#078600;
+   background-color: #FFD073;
+}
+body{
+    background-color: #FFD073;
+}
+footer{
+    background-color: gray;
+    padding: 7px;
+}
